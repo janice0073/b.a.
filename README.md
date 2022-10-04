@@ -81,6 +81,8 @@ There are many different breeds of cats! Here is a list of them all.
   - Scratches
   - Catnip
   - Hunting
+  
+  ![Image](https://live.staticflickr.com/65535/49681641278_39a3783443_b.jpg)
 
 - Cats don't like:
   - Citrus
@@ -89,3 +91,11 @@ There are many different breeds of cats! Here is a list of them all.
   - Medicine
   - Essential oils (can be toxic to them!)
   - Dirty litter boxes
+
+![Image](https://live.staticflickr.com/2913/14765131371_027eb3dd14_b.jpg)
+
+## End Notes
+
+Thank you for reading!
+
+![Image](https://www.publicdomainpictures.net/pictures/50000/nahled/sad-cat.jpg)
