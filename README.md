@@ -1,4 +1,4 @@
-# CAT PAGE
+# WELCOME!
 
 ## About
 A page about cats, just because! Who doesn't love cats (sorry dog lovers)? Here's some random facts and pictures to cheer up your day! If you're allergic... my bad! This also includes information that is pretty well known, but is nice to see compiled together! :D
