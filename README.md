@@ -11,7 +11,7 @@ There are many different breeds of cats! Here is a list of them all.
 - Siamese
 - British Shorthair
 - Maine Coon
-- Persian Cat
+- Persian
 - Ragdoll
 - Sphynx
 - American Shorthair
@@ -24,4 +24,38 @@ There are many different breeds of cats! Here is a list of them all.
 - Russian Blue
 - Siberian
 - Norwegian Forest
-- 
+- Munchkin
+- American Curl
+- American Bobtail
+- Oriental Shorthair
+- Balinese
+- Devon Rex
+- Chartreux
+- Turkish Angora
+- Japanese Bobtail
+- Manx
+- American Wirehair
+- Ragamuffin
+- Somali
+- Egyptian Mau
+- Himalayan
+- Cornish Rex
+- Selkirk Rex
+- Tonkinese
+- Singapura
+- Korat
+- Ocicat
+- Turkish Van
+- British Longhair
+- LaPerm
+- Havana Brown
+- Chausie
+- Burmilla
+- Lykoi
+- Colorpoint Shorthair
+- Toyger
+- Javanese
+- Snowshoe
+- Australian Mist
+- Sokoke
+- Khao Manee
