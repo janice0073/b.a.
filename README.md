@@ -69,3 +69,23 @@ There are many different breeds of cats! Here is a list of them all.
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/69/June_odd-eyed-cat_cropped.jpg)
 
 - Cats tend to live from 12-18 years, but the oldest known cat is a cat named **Creme Puff**! She lived for 38 years and 8 days. Currently, the oldest living cat as of 2022 is **Samm**, who is 26 years old!
+
+- Cats are carnivores, meaning that their diet consists of meat or other foods that contain the same proteins. According to [Pet's WebMD](https://pets.webmd.com/cats), some good options for feeding your cat are "beef, turkey, chicken," and etc. Make sure to cook the meat before serving it to your cat, you wouldn't want them getting sick! 
+
+![Image](https://images.pexels.com/photos/7453386/pexels-photo-7453386.jpeg)
+
+- Cats like:
+  - Sleeping
+  - Private spaces
+  - High spaces
+  - Scratches
+  - Catnip
+  - Hunting
+
+- Cats don't like:
+  - Citrus
+  - Dogs
+  - Smells
+  - Medicine
+  - Essential oils (can be toxic to them!)
+  - Dirty litter boxes
