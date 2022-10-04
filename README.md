@@ -7,7 +7,7 @@ Have fun!
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b8/Cute_cat_%281698598876%29.jpg)
 
 ## Breeds
-There are many different breeds of cats! Here is a list of them all.
+There are many different breeds of cats! Here is a list of them all!
 - Siamese
 - British Shorthair
 - Maine Coon
