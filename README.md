@@ -65,3 +65,5 @@ There are many different breeds of cats! Here is a list of them all.
 ## Facts
 - Some cats have heterochromia! These are cats with two-colored eyes. There are two types of heterochromia: full and partial. **Full heterochromia** is when one eye is blue and the other eye is a completely different color, while **partical heterochromia** is when an eye is a mix of blue and another color. These cats are also known as _odd-eye_ cats. The other eye can be yellow, brown, or green.
 [Source](https://en.wikipedia.org/wiki/Odd-eyed_cat)
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/6/69/June_odd-eyed-cat_cropped.jpg)
