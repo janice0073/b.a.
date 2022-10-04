@@ -67,3 +67,5 @@ There are many different breeds of cats! Here is a list of them all.
 [Source](https://en.wikipedia.org/wiki/Odd-eyed_cat)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/69/June_odd-eyed-cat_cropped.jpg)
+
+- Cats tend to live from 12-18 years, but the oldest known cat is a cat named **Creme Puff**! She lived for 38 years and 8 days. Currently, the oldest living cat as of 2022 is **Samm**, who is 26 years old!
